@@ -5,7 +5,7 @@ Flowers: Image-based transfer learning on Cloud ML
 
 Build a model to recognize the type of a flower from its image.
 
-This tutorial uses the Flowers dataset to build a customized image classification model via transfer learning and the existent [Inception-v3](https://www.tensorflow.org/tutorials/images/image_recognition) model in order to correctly label different types of flowers using Cloud Machine Learning Engine.
+This example uses the Flowers dataset to build a customized image classification model via transfer learning and the existent [Inception-v3](https://www.tensorflow.org/tutorials/images/image_recognition) model in order to correctly label different types of flowers using Cloud Machine Learning Engine.
 
 The sample code you will walk through and results you will monitor consist of four parts: data preprocessing, model training with the transformed data, model deployment, and prediction request steps.
 
